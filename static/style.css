@@ -104,7 +104,10 @@ body {
     margin: 0;
     padding: 0;
 }
-
+.gif{
+    height: 600px;
+    width: 700px;
+}
 h1 {
     color: black;
     text-align: center;
